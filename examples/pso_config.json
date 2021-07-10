@@ -1,0 +1,17 @@
+{
+    "algorithm": "pso",
+    "parsecpydatafilepath": "/home/israel/Desktop/proyectosI/memoryWall/parsec.blackscholes3.dat",
+    "resultsfolder": "./",
+    "modelcodefilepath": "/home/israel/Desktop/proyectosI/memoryWall/examples/modelfunc_example_inputsize_cores.py",
+    "size": 100,
+    "w": 1,
+    "c1": 1,
+    "c2": 4,
+    "maxiter": 100,
+    "lowervalues": [0,0,0,0,0],
+    "uppervalues": [10,10,10,10,10],
+    "repetitions": 5,
+    "threads": 1,
+    "crossvalidation": false,
+    "verbosity": 1
+  }
